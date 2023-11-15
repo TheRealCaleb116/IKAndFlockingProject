@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 3D CCDIK Simulation and Flocking and Pathing Simulation - Caleb Wiebolt
+title: 2D CCDIK Simulation and Flocking and Pathing Simulation - Caleb Wiebolt
 description: >-
-  A project written in Unity for my Animation and Planing in Games class Project 3.
+  A project written in Unity for my Animation and Planning in Games class Project 3.
 baseurl: "/IKAndFlockingProject" # the subpath of your site, e.g. /blog
 url: "https://therealcaleb116.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
