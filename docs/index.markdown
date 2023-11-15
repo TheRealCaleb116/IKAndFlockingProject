@@ -27,15 +27,15 @@ Below is the write-up for my CCD IK Project which also includes a separate Flock
 
 | Feature                           | Description       | TimeCode |
 |:-------------                     |:------------------|:------|
-| Multi Arm IK          | My IK has two arms connected together part way through the armiture and rooted at a singular point. | X:XX-X:XX  |
-| Joint Limits       | Joints on the arimiture can be limited to certain angles of movement. | X:XX-X:XX   |
-| User Interaction |  In the IK simulation the end effector and the obstacles can both be moved. In the BOIDS sim new boids can be created on demands and a goal can be set. | X:XX-X:XX |
-| IK Obstacles |  In the IK simulation there is an obstcle that can prevent the arms from reaching their targets. | X:XX-X:XX |
-| Flocking   | I implemented the BOIDS algorithm to create natural flocking and group movement. | X:XX-X:XX   |
-| 3D Rendering & Camera | The BOIDS simulation is rendered in 3D with a moving camera, textures for the ground and obsticals and dynamic lighting as the boids move around. | X:XX-X:XX |
+| Multi Arm IK          | My IK has two arms connected together part way through the armiture and rooted at a singular point. | 0:06-0:45  |
+| Joint Limits       | Joints on the arimiture can be limited to certain angles of movement. | 0:45-1:55   |
+| User Interaction |  In the IK simulation the end effector and the obstacles can both be moved. In the BOIDS sim new boids can be created on demands and a goal can be set. | Throughout the Video |
+| IK Obstacles |  In the IK simulation there is an obstcle that can prevent the arms from reaching their targets. | 1:55-3:52 |
+| Flocking   | I implemented the BOIDS algorithm to create natural flocking and group movement. | 4:00-6:38   |
+| 3D Rendering & Camera | The BOIDS simulation is rendered in 3D with a moving camera, textures for the ground and obsticals and dynamic lighting as the boids move around. | 4:00-The End |
 
 
-In addition to the features listed above, I extended the BOIDS simulation to include obsatcle avoidance and goal based pathing. I since this wasn't nessiary a requirested feature in the writeup I was unsure of how categorize it. It is showcased in the video after XX:XX and at the very least is an interesting application of the algorithm.
+In addition to the features listed above, I extended the BOIDS simulation to include obsatcle avoidance and goal based pathing. I since this wasn't nessiary a requirested feature in the writeup I was unsure of how categorize it. It is showcased in the video after 6:40 and at the very least is an interesting application of the algorithm.
 
 
 
