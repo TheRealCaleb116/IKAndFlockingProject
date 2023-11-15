@@ -8,7 +8,7 @@ layout: default
  
 </div>
 
-# 3D CCDIK Simulation and Flocking and Pathing Simulation - Caleb Wiebolt
+# 2D CCDIK Simulation and Flocking and Pathing Simulation - Caleb Wiebolt
 
 Below is the write-up for my CCD IK Project which also includes a separate Flocking simulation that used BOIDS and extends the algorithm to incorporate collision avoidance in order to simulate a basic goal-based pathing system as well. Both of these simulations were created in Unity for my Animation and Planning in Games class. All the graded features that I attempted can be found below. To look at the source code or a pre-built executable click the button below. 
 
