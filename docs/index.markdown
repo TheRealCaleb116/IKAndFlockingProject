@@ -42,7 +42,6 @@ In addition to the features listed above, I extended the BOIDS simulation to inc
 ## Tools and Libraries Used
 *   Unity 2022.3.9f1 and Visual Studio
 *   I referenced this paper when creating my own obstacle avoidance addon for the BOIDS algorithm, while not a direct implementation many of my ideas came from <a href="https://www.hindawi.com/journals/jam/2014/659805/">Here.</a>
-https://www.hindawi.com/journals/jam/2014/659805/
 
 ## Assets Used
 * 2D targets Sprite by <a href="https://assetstore.unity.com/packages/3d/animations/2d-targets-sprites-142142">Elizabeth Studio</a> on the unity asset store.
