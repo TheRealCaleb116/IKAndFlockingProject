@@ -10,7 +10,7 @@ layout: default
 
 # 3D CCDIK Simulation and Flocking and Pathing Simulation - Caleb Wiebolt
 
-Below is the write-up for my CCD IK Project which also includes a separate Flocking simulation that used BOIDS and extends the algorithm to incorperate collision avoicdance in order to simualte a basic goal based pathing system as well. Both of these simulations were created in Unity for my Animation and Planning in Games class. All the graded features that I attempted can be found below. To look at the source code or a pre-built executable click the button below. 
+Below is the write-up for my CCD IK Project which also includes a separate Flocking simulation that used BOIDS and extends the algorithm to incorporate collision avoidance in order to simulate a basic goal-based pathing system as well. Both of these simulations were created in Unity for my Animation and Planning in Games class. All the graded features that I attempted can be found below. To look at the source code or a pre-built executable click the button below. 
 
 <a href="{{ site.github.repository_url }}" class="btn btn-dark">Go to the Code</a>
 
@@ -27,21 +27,21 @@ Below is the write-up for my CCD IK Project which also includes a separate Flock
 
 | Feature                           | Description       | TimeCode |
 |:-------------                     |:------------------|:------|
-| Multi Arm IK          | My IK has two arms connected together part way through the armiture and rooted at a singular point. | 0:06-0:45  |
-| Joint Limits       | Joints on the arimiture can be limited to certain angles of movement. | 0:45-1:55   |
-| User Interaction |  In the IK simulation the end effector and the obstacles can both be moved. In the BOIDS sim new boids can be created on demands and a goal can be set. | Throughout the Video |
-| IK Obstacles |  In the IK simulation there is an obstcle that can prevent the arms from reaching their targets. | 1:55-3:52 |
+| Multi Arm IK          | My IK has two arms connected together part way through the armature and rooted at a singular point. | 0:06-0:45  |
+| Joint Limits       | Joints on the armature can be limited to certain angles of movement. | 0:45-1:55   |
+| User Interaction |  In the IK simulation the end effector and the obstacles can both be moved. In the BOIDS sim, new BOIDS can be created on demands and a goal can be set. | Throughout the Video |
+| IK Obstacles |  In the IK simulation there is an obstacle that can prevent the arms from reaching their targets. | 1:55-3:52 |
 | Flocking   | I implemented the BOIDS algorithm to create natural flocking and group movement. | 4:00-6:38   |
-| 3D Rendering & Camera | The BOIDS simulation is rendered in 3D with a moving camera, textures for the ground and obsticals and dynamic lighting as the boids move around. | 4:00-The End |
+| 3D Rendering & Camera | The BOIDS simulation is rendered in 3D with a moving camera, textures for the ground and obstacles, and dynamic lighting as the BOIDS move around. | 4:00-The End |
 
 
-In addition to the features listed above, I extended the BOIDS simulation to include obsatcle avoidance and goal based pathing. I since this wasn't nessiary a requirested feature in the writeup I was unsure of how categorize it. It is showcased in the video after 6:40 and at the very least is an interesting application of the algorithm.
+In addition to the features listed above, I extended the BOIDS simulation to include obstacle avoidance and goal-based pathing. Since this wasn't necessarily a requested feature in the write-up I was unsure of how to categorize it. It is showcased in the video after 6:40 and at the very least is an interesting application of the algorithm.
 
 
 
 ## Tools and Libraries Used
 *   Unity 2022.3.9f1 and Visual Studio
-*   I referenced this paper when creating my own obstacle avoidance addon for the BOIDS algorithm, while not a direct implementation many of my idea came from <a href="https://www.hindawi.com/journals/jam/2014/659805/">Here.</a>
+*   I referenced this paper when creating my own obstacle avoidance addon for the BOIDS algorithm, while not a direct implementation many of my ideas came from <a href="https://www.hindawi.com/journals/jam/2014/659805/">Here.</a>
 https://www.hindawi.com/journals/jam/2014/659805/
 
 ## Assets Used
