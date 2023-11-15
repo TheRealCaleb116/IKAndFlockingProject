@@ -47,7 +47,6 @@ In addition to the features listed above, I extended the BOIDS simulation to inc
 * 2D targets Sprite by <a href="https://assetstore.unity.com/packages/3d/animations/2d-targets-sprites-142142">Elizabeth Studio</a> on the unity asset store.
 * <a href="https://skfb.ly/6RusL">Oil barrel Textured Game assets</a> by Dinesh Naidu is licensed under Creative Commons Attribution.
 * Coast Land Rocks 1 Textures and Material by <a href="https://polyhaven.com/a/coast_land_rocks_01">Rico Cilliers and Rob Tuytel</a>
-* Beachball Textures by <a href="https://www.robinwood.com/Catalog/FreeStuff/Textures/TexturePages/BallMaps.html">Robin Wood</a>
 
 
 ## Difficulties Encountered
