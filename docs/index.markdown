@@ -3,8 +3,8 @@ layout: default
 ---
 <div id="HeaderPics">
 
- <img src="./assets/img/IKsimulation.png" alt=""> 
- <img src="./assets/img/BOIDS.png" alt=""> 
+ <img src="./assets/img/IKsimulation.PNG" alt=""> 
+ <img src="./assets/img/BOIDS.PNG" alt=""> 
  
 </div>
 
@@ -52,7 +52,6 @@ https://www.hindawi.com/journals/jam/2014/659805/
 
 
 ## Difficulties Encountered
-This project was fun and difficult. I started my IK simulation in 3D using quaternions to represent roation. While I got almost every part of that working, I spent hours trying to figure out how to implement angular constraints with that represenation. I then tried to change the way I was representing the rotation at each joint in order to figure out how to constrain the range of motion. After many hours spent on something that felt so close and with some prompting from the sunk cost fallicie I pressed on. Eventually the deadline was looming and I realized that figuring everything out in time wouldn't happen. I then refactored everything into the 2D simulation you see now and added collision to make up for the points.
+This project was fun and difficult. I started my IK simulation in 3D using quaternions to represent rotation. While I got almost every part of that working, I spent hours trying to figure out how to implement angular constraints with that representation. I then tried to change the way I was representing the rotation at each joint in order to figure out how to constrain the range of motion. After many hours spent on something that felt so close and with some prompting from the sunk cost fallacy I pressed on. Eventually, the deadline was looming and I realized that figuring everything out in time wouldn't happen. I then refactored everything into the 2D simulation you see now and added collision to make up for the points.
 
-Despite the large amount of frustation this casued me, I do feel that refactoring and redesigning this system multiple times has given me a much deeper understadning of how the CCDIK model works. In addition to that I created the BOIDs sim. It was a blast to implement and I was intrigued by what the professor had mentioned in class about boids and collision avoidance. I was curious if i could get decent single and multi agent navigation style behavior without a more complicated nav system. I think the results, while not perfect, are really good for the amount of work I put into it. 
-
+Despite the large amount of frustration this caused me, I do feel that refactoring and redesigning this system multiple times has given me a much deeper understanding of how the CCDIK model works. In addition to that I created the BOIDs sim. It was a blast to implement and I was intrigued by what the professor had mentioned in class about BOIDS and collision avoidance. I was curious if I could get decent single and multi-agent navigation style behavior without a more complicated nav system. I think the results, while not perfect, are really good for the amount of work I put into it. 
